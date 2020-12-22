@@ -52,7 +52,8 @@ brew cask install adobe-creative-cloud
 * [BlackmagicSpeed](https://apps.apple.com/gb/app/blackmagic-disk-speed-test/id425264550) from the macOS App Store
 * [Color Slurp](https://apps.apple.com/gb/app/colorslurp/id1287239339?mt=12) from the macOS App Store
 * [Day One](https://apps.apple.com/gb/app/day-one/id1055511498?mt=12) from the macOS App Store
-* [WebM Codec for After Effects](http://www.fnordware.com/WebM/) from official site
+* [WebM Codec for After Effects](http://www.fnordware.com/WebM/) from official site (possibly migrate to AfterEffects Section)
+* [Animation Composer for After Effects](https://misterhorse.com/animation-composer) from MisterHorse (possibly migrate to AfterEffects Section)
 
 
 
